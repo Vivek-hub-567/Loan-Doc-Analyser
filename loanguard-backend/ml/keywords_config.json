@@ -1,0 +1,134 @@
+{
+  "version": "1.1.0",
+  "categories": [
+    {
+      "id": "advance_fee_scam_signals",
+      "label": "Advance-Fee Scam Signal",
+      "severity": "CRITICAL",
+      "risk_weight": 25,
+      "keywords": [
+        "guaranteed approval", "instant approval", "regardless of your credit history",
+        "regardless of credit history", "no credit check", "100% approval",
+        "verification fee", "refundable fee", "refundable verification fee",
+        "security processing charge", "security deposit fee", "activation fee",
+        "account activation fee", "fast-track approval charge", "fast track approval",
+        "compliance fee", "advance fee", "release fee", "unlocking fee",
+        "pay before disbursement", "loan will be released", "loan will be disbursed after payment",
+        "clear all dues before", "clear the fee to", "pay through UPI", "pay via UPI",
+        "contact on whatsapp", "contact us on whatsapp", "whatsapp for payment",
+        "within 24 hours", "loan officer directly", "cancellation of your approval",
+        "failure to pay", "loan has been approved", "pre-approved loan"
+      ]
+    },
+    {
+      "id": "hidden_fee_risk",
+      "label": "Hidden Fee Risk",
+      "severity": "HIGH",
+      "risk_weight": 15,
+      "keywords": [
+        "penal charges", "penal interest", "GST extra", "GST additional", "GST applicable",
+        "pre-closure fee", "pre-closure charge", "prepayment penalty", "foreclosure charge",
+        "processing fee", "processing charge", "documentation fee", "documentation charge",
+        "stamp duty", "legal charges", "valuation fee",
+        "insurance premium", "insurance charges", "bounce charge", "dishonour charge",
+        "late payment fee", "late fee", "delayed payment charge", "overdue charge",
+        "annual maintenance charge", "account maintenance fee", "convenience fee",
+        "collection charge", "field visit charge", "cheque swap charge", "NACH charge"
+      ]
+    },
+    {
+      "id": "default_recovery_risk",
+      "label": "Default Recovery Risk",
+      "severity": "CRITICAL",
+      "risk_weight": 25,
+      "keywords": [
+        "acceleration clause", "accelerate the loan", "entire outstanding", "full repayment",
+        "asset seizure", "seize the asset", "repossession", "attach property",
+        "NPA", "non-performing asset", "declare default", "event of default",
+        "recovery agent", "recovery proceedings", "legal action", "arbitration proceedings",
+        "SARFAESI", "DRT", "debt recovery tribunal", "lok adalat",
+        "cross default", "material adverse change", "credit deterioration"
+      ]
+    },
+    {
+      "id": "legal_clause_detection",
+      "label": "Legal Clause Detection",
+      "severity": "MEDIUM",
+      "risk_weight": 8,
+      "keywords": [
+        "force majeure", "indemnification clause", "indemnify the lender", "hold harmless",
+        "arbitration clause", "mandatory arbitration", "binding arbitration",
+        "jurisdiction clause", "governing law", "waiver of rights", "waive the right",
+        "limitation of liability", "disclaimer of warranties", "entire agreement",
+        "severability clause", "amendment clause", "modification of terms"
+      ]
+    },
+    {
+      "id": "financial_entity_extraction",
+      "label": "Financial Entity",
+      "severity": "INFO",
+      "risk_weight": 2,
+      "keywords": [
+        "EMI", "equated monthly instalment", "principal amount", "interest rate",
+        "SOFR", "MCLR", "repo rate", "base rate", "prime lending rate",
+        "LTV", "loan to value", "CIBIL", "credit score", "credit bureau",
+        "NACH", "ECS", "mandate", "disbursement", "drawdown",
+        "moratorium", "repayment schedule", "amortisation", "balloon payment",
+        "bullet repayment", "tenor", "tenure"
+      ]
+    },
+    {
+      "id": "power_imbalance_risk",
+      "label": "Power Imbalance Risk",
+      "severity": "HIGH",
+      "risk_weight": 15,
+      "keywords": [
+        "sole discretion", "absolute discretion", "lender's discretion",
+        "irrevocable", "irrevocably authorise", "irrevocably appoint",
+        "at any time", "without notice", "without prior notice",
+        "unilaterally", "unilateral right", "right to modify", "right to alter",
+        "right to revoke", "right to cancel", "without reason", "without cause",
+        "as deemed fit", "as determined by the lender"
+      ]
+    },
+    {
+      "id": "privacy_data_risk",
+      "label": "Privacy & Data Risk",
+      "severity": "HIGH",
+      "risk_weight": 15,
+      "keywords": [
+        "SMS access", "contact access", "location access", "gallery access",
+        "microphone access", "camera access", "device data", "phone data",
+        "behavior monitoring", "usage monitoring", "app usage", "browsing data",
+        "DPDP Act", "personal data", "data sharing", "third party sharing",
+        "credit information", "data processing consent"
+      ]
+    },
+    {
+      "id": "regulatory_compliance",
+      "label": "Regulatory Compliance",
+      "severity": "MEDIUM",
+      "risk_weight": 8,
+      "keywords": [
+        "NBFC", "non-banking financial company", "RBI guidelines", "RBI circular",
+        "DLA", "digital lending app", "LSP", "lending service provider",
+        "KFS", "key fact statement", "direct disbursement", "direct repayment",
+        "grievance redressal", "nodal officer", "cooling-off period",
+        "annual percentage rate", "APR", "total cost of credit"
+      ]
+    },
+    {
+      "id": "predatory_lending_signals",
+      "label": "Predatory Lending Signal",
+      "severity": "CRITICAL",
+      "risk_weight": 25,
+      "keywords": [
+        "upfront deduction", "upfront fee deduction", "deducted upfront",
+        "hidden deduction", "hidden charges", "undisclosed charges",
+        "insurance bundled", "insurance mandatory", "forced insurance",
+        "excessive penalty", "penalty on penalty", "compound penalty",
+        "third party collection", "unauthorised recovery", "coercive recovery"
+      ]
+    }
+  ]
+}

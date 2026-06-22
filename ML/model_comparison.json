@@ -1,0 +1,63 @@
+{
+  "best_model": "random_forest",
+  "split": {
+    "train": 700,
+    "val": 150,
+    "test": 150
+  },
+  "scaled_models": [
+    "linear_svm",
+    "logistic_regression",
+    "naive_bayes"
+  ],
+  "all_models_val_comparison": {
+    "random_forest": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "train_time_sec": 0.26
+    },
+    "logistic_regression": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "train_time_sec": 0.01
+    },
+    "gradient_boosting": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "train_time_sec": 1.37
+    },
+    "linear_svm": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "train_time_sec": 14.06
+    },
+    "naive_bayes": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "train_time_sec": 0.0
+    },
+    "xgboost": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "train_time_sec": 0.25
+    }
+  },
+  "best_model_test_metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  }
+}

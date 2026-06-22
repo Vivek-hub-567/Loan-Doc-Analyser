@@ -1,0 +1,44 @@
+RBI Digital Lending Guidelines — Key Provisions for Borrowers
+
+MASTER DIRECTION — DIGITAL LENDING (RBI, 2022, Updated 2023)
+
+1. DIRECT DISBURSEMENT REQUIREMENT
+All loan disbursements must be made directly to the borrower's bank account.
+No loan funds may be routed through the Lending Service Provider (LSP) or Digital Lending App (DLA).
+Repayments must be made directly to the Regulated Entity (NBFC/Bank), not to the LSP.
+
+2. KEY FACT STATEMENT (KFS)
+Every digital lender must provide a standardized Key Fact Statement before loan execution.
+The KFS must include:
+- Annual Percentage Rate (APR) — all-inclusive cost of credit
+- Processing fees, penalties, and all other charges in absolute rupee terms
+- Cooling-off period details
+- Grievance redressal officer contact information
+
+3. COOLING-OFF PERIOD
+Borrowers must be given a minimum cooling-off period (stipulated by RBI) to exit the loan.
+No prepayment penalty may be charged if the borrower exits during the cooling-off period.
+
+4. GRIEVANCE REDRESSAL
+Every NBFC/Bank must designate a Nodal Grievance Redressal Officer.
+Contact details must be displayed on the app and in all loan documents.
+Borrowers may escalate to the RBI Integrated Ombudsman Scheme if unresolved within 30 days.
+
+5. FAIR PRACTICES CODE
+Lenders must follow a Board-approved Fair Practices Code.
+Collection agents must carry authorization letters and not use coercive methods.
+Recovery must not involve harassment, abuse, or contact with unauthorized persons.
+
+6. DATA COLLECTION RESTRICTIONS
+Digital Lending Apps may only collect data necessary for credit assessment.
+Access to contacts, SMS, files, and other sensitive data requires explicit, revocable consent.
+Data sharing with third parties requires specific borrower consent — blanket consent is not valid.
+Lenders must comply with the Digital Personal Data Protection (DPDP) Act, 2023.
+
+7. NBFC REGISTRATION
+All digital lending entities must be registered with RBI as NBFCs or partner with registered NBFCs.
+Unregistered entities offering credit through digital platforms are illegal under RBI regulations.
+
+8. INTEREST RATE DISCLOSURE
+The effective annual interest rate must be disclosed in percentage per annum terms.
+Lenders must disclose the basis for floating rate changes (MCLR, repo rate, etc.).

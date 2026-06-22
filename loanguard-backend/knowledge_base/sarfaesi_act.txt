@@ -1,0 +1,31 @@
+SARFAESI Act — Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002
+
+KEY PROVISIONS FOR BORROWERS
+
+1. SECURED CREDITOR RIGHTS
+Banks and NBFCs can enforce security interest without court intervention.
+Applicable only when NPA (Non-Performing Asset) classification occurs after 3+ months of default.
+
+2. MANDATORY NOTICE REQUIREMENT
+60-day notice must be given to borrower before possession of secured asset.
+Borrower has right to repay dues and reclaim asset within the notice period.
+Notice must be in writing and specify the amount due and nature of default.
+
+3. APPEAL RIGHTS
+Borrower can appeal to the Debt Recovery Tribunal (DRT) within 45 days of receiving notice.
+DRT can grant stay on asset possession if substantial cause is shown.
+Appeal to Debt Recovery Appellate Tribunal (DRAT) lies from DRT orders.
+
+4. MINIMUM LOAN THRESHOLD
+SARFAESI applies only to loans above ₹1 lakh.
+Agricultural land is exempt from SARFAESI proceedings.
+
+5. BORROWER PROTECTIONS
+Fair valuation of asset must be conducted before sale.
+Borrower has right to receive surplus proceeds after debt recovery.
+Public notice of sale must be given with minimum 30 days notice.
+
+6. COMMON ILLEGAL PRACTICES TO WATCH
+Immediate seizure without 60-day notice is illegal.
+Recovery agent harassment or coercion violates RBI guidelines and may be criminal.
+Seizing household goods not pledged as security is illegal.

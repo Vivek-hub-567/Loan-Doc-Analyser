@@ -1,0 +1,38 @@
+DPDP Act 2023 — Digital Personal Data Protection Act, India
+
+KEY PROVISIONS RELEVANT TO DIGITAL LENDING
+
+1. CONSENT REQUIREMENTS
+Data fiduciaries (lenders/apps) must obtain free, specific, informed, unconditional, and unambiguous consent.
+Blanket consent to all data collection is NOT valid under the DPDP Act.
+Consent must be obtained through a clear, plain-language notice.
+Borrowers have the right to withdraw consent at any time.
+
+2. PURPOSE LIMITATION
+Personal data may only be collected for specific, explicit, and legitimate purposes.
+Digital lenders cannot collect contact lists, SMS data, or location for purposes beyond credit assessment.
+Data cannot be retained beyond the period necessary for the stated purpose.
+
+3. DATA PRINCIPAL RIGHTS
+Right to access personal data held by the data fiduciary.
+Right to correction and erasure of inaccurate or no-longer-needed data.
+Right to grievance redressal against data fiduciaries.
+Right to nominate a representative for data decisions in case of death/incapacity.
+
+4. DATA FIDUCIARY OBLIGATIONS
+Must implement reasonable security safeguards against data breaches.
+Must notify borrowers in case of a data breach affecting their personal data.
+Cannot transfer personal data to countries not approved by the Government of India.
+Must appoint a Data Protection Officer for significant data fiduciaries.
+
+5. CHILDREN'S DATA
+Digital lenders must not collect data from borrowers who are minors.
+Verifiable parental consent is required for processing data of minors.
+
+6. PENALTIES
+Non-compliance with DPDP Act can result in penalties up to ₹250 crore per violation.
+The Data Protection Board of India has adjudicatory powers.
+
+7. SENSITIVE DATA IN LENDING CONTEXT
+Financial data, identity data, and behavioral data collected by lending apps are personal data.
+Medical data, precise location data, and biometric data are sensitive personal data requiring higher protection.
