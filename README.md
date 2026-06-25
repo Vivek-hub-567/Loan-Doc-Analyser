@@ -15,19 +15,11 @@ An AI-powered Loan Document Analyzer that extracts key financial details from lo
 - Python
 - FastAPI
 - LangChain
-- FAISS
+- LLM
 - Sentence Transformers
-- React
+- RAG
 - Render
 
-## Architecture
-(Add architecture diagram)
 
-## Demo
-(Add deployed link)
 
-## Screenshots
 
-## Installation
-
-## Future Improvements
